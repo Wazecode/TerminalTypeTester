@@ -1,0 +1,3 @@
+/home/shuwais/Documents/Projects/ttt/build/CMakeFiles/ttt.dir
+/home/shuwais/Documents/Projects/ttt/build/CMakeFiles/edit_cache.dir
+/home/shuwais/Documents/Projects/ttt/build/CMakeFiles/rebuild_cache.dir

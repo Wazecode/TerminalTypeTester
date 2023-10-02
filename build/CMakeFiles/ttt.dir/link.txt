@@ -1,0 +1,1 @@
+/sbin/c++ CMakeFiles/ttt.dir/src/main.cpp.o -o ttt  -lcurses -lform 
